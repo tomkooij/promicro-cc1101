@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CC1101-E07-PI")(type "KiCad")(uri "C:/Users/Tom/github/cc1101-e07-pi/kicad/CC1101-E07-PI.pretty")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "C:/Users/Tom/github/ProMicroKiCad/promicro.pretty")(options "")(descr ""))
+  (lib (name "miscellaneous")(type "KiCad")(uri "C:/Users/Tom/github/KiCad/miscellaneous.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/Library.pretty")(options "")(descr ""))
+)
