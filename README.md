@@ -12,5 +12,6 @@ Use the [ramses_cc](https://github.com/zxdavb/ramses_cc) Home Assitant integrati
  - Arduino Pro Micro: mount the reset switch. The RX/TX LEDs are not used: The Pro Micro has on-board leds that are used by evofe3.
  - ESP32-C3: Optionally mount the RX/TX leds. Reset button is on-board. This can run ramses ESP.
 
-TODO:
+TODO (improve in next version):
  - esp32c3 mosi/sclk/miso is the wrong way around!! MOSI = 10, SCLK 9... GPO0 6
+ - pro micro GND pins next to TX/RX are not connected to pcb GND plane
