@@ -13,5 +13,6 @@ Use the [ramses_cc](https://github.com/zxdavb/ramses_cc) Home Assitant integrati
  - ESP32-C3: Optionally mount the RX/TX leds. Reset button is on-board. This can run ramses ESP.
 
 TODO (improve in next version):
- - esp32c3 mosi/sclk/miso is the wrong way around!! MOSI = 10, SCLK 9... GPO0 6
+ - esp32c3 mosi/sclk/miso is reversed as compared my other boards MOSI = 10, SCLK 9... GPO2 5
+   (pcb silkscreen is correct)
  - pro micro GND pins next to TX/RX are not connected to pcb GND plane
